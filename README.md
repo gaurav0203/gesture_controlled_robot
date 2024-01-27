@@ -5,7 +5,11 @@ It can be also controlled through a webage on localhost
 
 ### Gesture Detection and Command Sending
 
+https://github.com/gaurav0203/gesture_controlled_robot/assets/112508989/b310ee0d-a3bb-417d-90b9-d9f0ea1529c7
+
 ### Robot Movement Video
+
+https://github.com/gaurav0203/gesture_controlled_robot/assets/112508989/5a1f3c7e-90c0-45e9-a40a-53745a86a1f1
 
 ### Webpage
 
